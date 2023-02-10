@@ -1,0 +1,8 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat925.ani), url(https://cur.cursors-4u.net/nature/nat-10/nat925.png), auto !important;} /* End https://www.cursors-4u.com */
+body {
+    background-color: #070095;
+    background-image:url('background-water2.gif');
+    background-attachment:fixed;
+    background-position:center;
+    margin: 50px;
+}
