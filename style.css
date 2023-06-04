@@ -12,6 +12,12 @@ body {
     border: 4px;
 }
 
+footer {
+    color: grey;
+    text-align: center;
+    text-size-adjust: 75%;
+}
+
 .left {
     width: 200px;
     float: left;
